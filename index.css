@@ -1,0 +1,31 @@
+
+body{
+    font-family: sans-serif;
+}
+.top{
+    text-align: right;
+}
+
+.main{
+    border: 2px solid black;
+    padding: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%; 
+    padding-right: 1%;
+    text-align: center;
+    margin: auto;
+    margin-top: 4%;
+    width: 30%;
+    border-radius: 4cm;
+
+}
+
+.img{
+    text-align: center;
+    height: 200%;
+    padding-top: 2cm;
+    padding-bottom: 1cm;
+    /*border: 2px solid black;*/
+}
+
